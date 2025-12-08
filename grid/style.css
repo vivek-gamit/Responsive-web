@@ -23,6 +23,6 @@ html,body{
   justify-content: center;
   align-items: center;
 }
-.box:nth-child(1) {
+/* .box:nth-child(1) {
   grid-column: span 2;
-}
+} */
